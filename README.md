@@ -1,39 +1,21 @@
-<h1 align="center">Hi dear 👋, I'm Jefferson Silva</h1>
-<h3 align="center">A web developer who loves challenges and new achievements. <br /> Always willing to help adding and acquiring knowledge</h3>
+# Olá sou Jefferson Silva, desenvolvedor Full Stack desde 2019
 
-<br />
+Todos os meus projetos estão disponíveis em [jeffsilva01](https://github.com/jeffsilva01/)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jeffsilva01&show_icons=true&theme=tokyonight"/>
 
-- 🔭 I’m currently working on [ACCT](https://acct.global/)
+Vamos falar sobre ??
 
-- 👨‍💻 All of my projects are available at [jsilva.dev](https://jsilva.dev)
+<div style="display: inline_block">
+  <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  
+</div>
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+#
 
-- 📫 How to reach me **jefferson@jsilva.dev**
-
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
-<a href="https://linkedin.com/in/jeffsilva01" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeffsilva01" height="20" width="20" /></a>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeffsilva01&show_icons=true" alt="jeffsilva01"/> 
-</p>
-
-<!--
-**JeffSilva01/JeffSilva01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-jefferson-ferreira-silva/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeff_silva96/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585999878510?text=Ol%C3%A1%2C+eu+gostei+muito+do+seu+GitHub.)
