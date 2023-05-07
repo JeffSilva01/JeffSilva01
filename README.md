@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jeffsilva01&show_icons=true&theme=tokyonight"/>
 Todos os meus projetos disponiveis no meu github.
-
+<br/>
 Vamos falar sobre ??
 
 <div style="display: inline_block">
@@ -13,7 +13,6 @@ Vamos falar sobre ??
   <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   
 </div>
-
 
 #
 
