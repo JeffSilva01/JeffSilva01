@@ -1,8 +1,7 @@
 # Olá sou Jefferson Silva, desenvolvedor Full Stack desde 2019
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jeffsilva01&show_icons=true&theme=tokyonight"/>
-
 Todos os meus projetos estão disponíveis em [jeffsilva01](https://github.com/jeffsilva01/)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jeffsilva01&show_icons=true&theme=tokyonight"/>
 
 Vamos falar sobre ??
 
